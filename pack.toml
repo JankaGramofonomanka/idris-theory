@@ -1,0 +1,4 @@
+[custom.all.theory]
+type = "local"
+path = "."
+ipkg = "theory.ipkg"
